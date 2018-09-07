@@ -15,9 +15,7 @@ function count_positive(arr)
 				
 			}
 		}
-	//console.log(sum);
-	//	l_value= oldArr.length;
-	//	console.log(l_value);
+	
 		oldArr.pop();
 		oldArr.push(sum);
 		console.log(oldArr);
